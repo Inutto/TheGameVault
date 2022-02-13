@@ -1,2 +1,5 @@
-# the obsidian workspace file
-**/workspace
+# ignore the obsidian workspace cache
+**/workspace/*
+
+# ignore trash files
+.obsidian/cache
