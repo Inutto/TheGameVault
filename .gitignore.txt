@@ -1,2 +1,2 @@
 # the obsidian workspace file
-/.obsidian/workspace
+/GameDesignVault/.obsidian/workspace
