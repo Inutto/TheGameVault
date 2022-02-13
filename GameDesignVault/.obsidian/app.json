@@ -1,0 +1,12 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "_Obsidian/Assets"
+}
