@@ -1,6 +1,6 @@
 # {{Title}}
 
- #principles #todo 
+ #genres  #todo 
  
 作者：
 首次创建时间：{{date}} {{time}}
