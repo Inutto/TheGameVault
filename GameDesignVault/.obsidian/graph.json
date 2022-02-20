@@ -4,19 +4,41 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#principles",
+      "color": {
+        "a": 1,
+        "rgb": 5412832
+      }
+    },
+    {
+      "query": "tag:#todo",
+      "color": {
+        "a": 1,
+        "rgb": 15079705
+      }
+    },
+    {
+      "query": "tag:#design",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.39230769230769,
+  "lineSizeMultiplier": 4.65,
+  "collapse-forces": false,
+  "centerStrength": 0.274725274725275,
+  "repelStrength": 3.84615384615385,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
+  "linkDistance": 180,
+  "scale": 0.7132754626224421,
   "close": false
 }
