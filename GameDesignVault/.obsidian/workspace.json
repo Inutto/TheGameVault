@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "ab109f73aa4bcb58",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d23b340a4d04408",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e09b8ae4fe6f1cc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design/类恶魔城银河战士（Metroidvania）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b79e771d141be334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏中的音乐节奏.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6da8bd9b465b85bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design/类恶魔城银河战士（Metroidvania）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5dae7ed1cb3afeb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "16718d8accf19944",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "439a313ed5e414b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59682bf7b0844c61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab1139189b15cdd5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.0036334991455
+  },
+  "right": {
+    "id": "45f632b3046af5ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "a578a66d6796774d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43b7ed252ab7b3dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "游戏中的音乐节奏.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c7697a0e284fafc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "游戏中的音乐节奏.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7db674a86e156b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "00ee63e8d2a71e16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "游戏中的音乐节奏.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "b79e771d141be334",
+  "lastOpenFiles": [
+    "Design/类恶魔城银河战士（Metroidvania）.md",
+    "Principles/节奏.md",
+    "Principles/体验引擎.md",
+    "Principles/玩家动机模型.md",
+    "Principles/一致性.md",
+    "Principles/交互与接口.md",
+    "Hollow Knight.md",
+    "Cooperation Protocol.md",
+    "CONTROL.md",
+    "Readme.md"
+  ]
+}
